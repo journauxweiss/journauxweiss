@@ -4,7 +4,7 @@ title: "About"
 permalink: /
 ---
 
-# Who was Charles Weiss?
+## Who was Charles Weiss?
 
-# On ATR and the Journaux de Charles Weiss
+## On ATR and the Journaux de Charles Weiss
 
