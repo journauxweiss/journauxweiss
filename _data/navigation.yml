@@ -7,3 +7,7 @@ main:
     url: /map/
   - title: "Team"
     url: /team/
+  - title: "Transcriptions"
+    url: /transcriptions/
+  - title: "Bibliography"
+    url: /bibliography/ 
