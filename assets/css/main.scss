@@ -16,6 +16,6 @@
 
 .page__footer .footer-credit {
   text-align: right;
-  font-size: $type-size-6;
+  font-size: calc(#{$type-size-6} - 3pt);
   clear: both;
 }
