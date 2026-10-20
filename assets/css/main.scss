@@ -13,3 +13,9 @@
   box-sizing: border-box;
   overflow: hidden;
 }
+
+.page__footer .footer-credit {
+  text-align: right;
+  font-size: $type-size-6;
+  clear: both;
+}
